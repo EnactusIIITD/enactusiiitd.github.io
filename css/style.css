@@ -10,7 +10,7 @@ body, a, blockquote{
 	font-family: 'Lato', sans-serif;
 	font-weight: 400; 
 	color: #333333;
-	background: url(../img/body_bg.png);
+	background: url(../images/body_bg.png);
 }
 
 p{
@@ -2908,6 +2908,20 @@ div.jp-volume-bar-value {
 
 .footer4 p{
 	color: white;
+	width: 615px;
+	margin: 45px auto; 
+	font-size: 12px
+}
+
+.footer4 .credits{
+	color: white;
+	width: 615px;
+	margin: 45px auto; 
+	font-size: 12px
+}
+
+.footer4 .credits:hover{
+	color: #FFC222;
 	width: 615px;
 	margin: 45px auto; 
 	font-size: 12px
