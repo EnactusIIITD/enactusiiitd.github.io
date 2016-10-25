@@ -207,7 +207,7 @@ button{
 
 /* Change the picture of the home background here */
 #slides_background_home .slides-container .img0{
-	background:url(../img/bg.jpg) center fixed ;
+	background:url(../images/bg.jpg) center fixed ;
 }
 
 #slides_background_home .slides-container .img1{
@@ -305,7 +305,7 @@ button{
 }
 
 .homesliders .logo{
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 }
 
 
