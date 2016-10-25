@@ -208,6 +208,8 @@ button{
 /* Change the picture of the home background here */
 #slides_background_home .slides-container .img0{
 	background:url(../images/bg.jpg) center fixed ;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #slides_background_home .slides-container .img1{
